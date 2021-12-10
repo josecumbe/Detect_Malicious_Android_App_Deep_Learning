@@ -1,0 +1,5 @@
+name,tcp_packets,dist_port_tcp,external_ips,vulume_bytes,source_app_packets,remote_app_packets,source_app_bytes,remote_app_bytes,source_app_packets.1,type
+Kmin,0,0,0,0,1,1,144,71,1,1
+MediaAndVideo,6,0,1,1350,7,6,880,1423,7,0
+Kmin,0,0,0,0,1,1,144,71,1,1
+Reading,48,0,1,8170,50,42,5362,8314,50,0
